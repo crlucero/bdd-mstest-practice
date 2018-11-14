@@ -1,0 +1,14 @@
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.deps.json
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.runtimeconfig.json
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.runtimeconfig.dev.json
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.dll
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.pdb
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.dll
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.pdb
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.csproj.CoreCompileInputs.cache
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.AssemblyInfo.cs
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.dll
+/Users/CristianLucero1/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.pdb
